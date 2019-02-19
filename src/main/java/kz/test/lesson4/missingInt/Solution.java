@@ -1,3 +1,5 @@
+package kz.test.lesson4.missingInt;
+
 // you can also use imports, for example:
 import java.util.Arrays;
 

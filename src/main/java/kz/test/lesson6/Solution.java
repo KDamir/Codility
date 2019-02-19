@@ -1,3 +1,5 @@
+package kz.test.lesson6;
+
 // you can also use imports, for example:
 import java.util.Arrays;
 
