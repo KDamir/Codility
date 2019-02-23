@@ -1,4 +1,4 @@
-package kz.test.lesson7;
+package kz.test.lesson5.MinAvgTwoSlice;
 
 // you can also use imports, for example:
 // import java.util.*;
